@@ -1,0 +1,72 @@
+.pcolor {
+    width: 100%;
+    height: 40px;
+    background-color: red;
+    border-radius: 20px;
+    box-shadow: 0 0 5px #ccc;
+    margin: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pcode {
+    width: 40%;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 50px #ccc;
+    float: right;
+    text-align: center;
+    padding: 10px;
+}
+
+.palet {
+    padding: 5%;
+    border-radius: 20px;
+}
+
+.userProfileSmall {
+    width: 100%;
+}
+
+.userphotoCricle {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+.username {
+    padding: 10%;
+    margin-left: 15%;
+}
+
+.imgU {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.LikeDiv {
+    width: 100%;
+}
+
+.Liked {
+    width: 40%;
+    padding-left: 10px;
+}
+
+.imglike {
+    width: 25px;
+    height: 25px;
+}
+
+.likenum {
+    margin-left: 3%;
+    padding: 1%;
+}
+
+.publikdate {
+    text-align: right;
+    width: 100%;
+    padding-right: 3%;
+}
